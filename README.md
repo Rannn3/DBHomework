@@ -62,7 +62,7 @@ make -j$(nproc)                 # Linux
 
 ## 🧪 功能测试
 
-### 1. 测试可扩展哈希表
+# 1. 测试可扩展哈希表
 
 **相关文件：**
 - `src/container/hash/extendible_hash_table.cpp`
